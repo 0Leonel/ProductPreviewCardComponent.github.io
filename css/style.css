@@ -114,7 +114,7 @@ a{
     color: red;
     text-decoration:none;
 }
-@media (max-width:700px){
+@media screen and (max-width:768px){
     .contenedor{
         width: 320px;
         min-height: 200px;
